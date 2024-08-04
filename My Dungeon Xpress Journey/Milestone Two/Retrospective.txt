@@ -1,0 +1,40 @@
+What changes you will make for the next milestone review. Where will you strengthen the project, what improvements need to be made, and how will you meet the goals of the next milestone.
+
+
+If I were in the next milestone review, I would make design and art suggestions. User interface and sound design are potential new areas. Although I am not as comfortable with these, I would like to further expand my design knowledge and help the project.
+
+More quality set designs, object models, and object textures would strengthen the project. I must feel free to be more creative and utilize constructive feedback to increase the game’s fun.
+
+I will strive to improve my work’s quality, creativity, and detail. Whenever I have three design tasks or three estimated hours left on Trello, I will notify the appropriate lead to provide new tasks. Early notification should provide enough time for leads to create new tasks without putting me too far behind.
+
+Next milestone goals will be met by communicating with leads and team members. I would discuss minimum design and art goals to determine priorities. Since there are programmers, I would keep basic mental notes of what they do. This ensures I understand the entire project rather than just my disciplines.
+
+
+
+
+Discuss what work and tasks you completed for the build and what you did not get done. Document what made it into the build and what is not yet in the build. Discuss how this impacted the build quality and build completeness.
+
+
+I completed 13 whiteboxes, 18 set designs, updated the combat UI layout, two prop modeling tasks, and one texturing task. My set designed rooms were in the project build. The rooms shown in the build are tar, library, swamp, haunted, flooded, hell, torture, and decay. Props and textures I made were not in the build. Set design rooms created more physical obstacles and showcased the game’s aesthetics. However, the lack of artist props and textures did not make the art style stand out.
+
+
+
+What went well (Pluses)?
+
+
+I was able to complete many design tasks and several art tasks. Halfway through the milestone, I had to become an artist. Before the transition, I had a little outdated experience with Blender. My transition was surprisingly quick. Level designs were quickly updated with quality improvements. Since becoming an artist, other artists have helped me with problems. Videos and articles from my own research provided help.
+
+What could be improved (Deltas)?
+
+
+Although I ask for help, I should ask for it earlier. I want to problem solve on my own so I can improve my own skill and not rely on others. However, one research task should not take long. The balance of Blender models’ and textures’ was difficult to determine. Since the project has a poly limit, I could not add every detail I may want. However, I acknowledge some details could be textured to prevent a higher poly count.
+
+What will you commit to improve in the next milestone?
+
+
+If I were in the next milestone, then I would focus on quality, creativity, and playability.
+
+What lessons did you learn?
+
+
+I learned Blender’s main subset of functionalities to create nearly any object. For me, the texture baking process required lots of learning through research. Some textures would not properly import into Unity. I learned Unity does not always automatically select the correct UV map. Unity’s “Swap UV” option was an easy solution to implement but difficult to discover.

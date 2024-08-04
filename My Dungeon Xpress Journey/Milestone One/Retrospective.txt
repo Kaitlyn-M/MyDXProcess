@@ -1,0 +1,40 @@
+What changes you will make for the next milestone review. Where will you strengthen the project, what improvements need to be made, and how will you meet the goals of the next milestone.
+
+
+For the next milestone review, I will attempt to expand to other design areas. User interface and sound design could be a couple new areas. Although I am not as comfortable with these, I would like to further expand my design knowledge and help the project.
+
+New paper maps, whiteboxes, and set designs will strengthen the project. It is essential I feel free to be more creative and utilize constructive feedback to increase the game’s fun.
+
+I will strive to improve my work’s quality and creativity. Whenever I have three design tasks left on Trello, I will notify the design lead to provide new tasks. Early notification should provide enough time for the design lead to create new tasks without putting me too far behind.
+
+Next milestone goals will be met by communicating with project and design leads. I will discuss minimum design goals to determine my priorities. Since there are programmers and artists, I will keep mental notes of what they do. This ensures I understand the entire project rather than just design.
+
+
+
+
+Discuss what work and tasks you completed for the build and what you did not get done. Document what made it into the build and what is not yet in the build. Discuss how this impacted the build quality and build completeness.
+
+
+I completed 13 whiteboxes and 7 set designs for the build. Since my latest tasks are paper maps, I completed all the current whiteboxes and set designs. None of my work made it into the build. The build has less whiteboxes and no set designed rooms. Without these rooms, the build has less aesthetic detail and physical obstacles.
+
+
+
+What went well (Pluses)?
+
+
+As I worked on more tasks, my time estimates became surprisingly accurate. I finished many design tasks. Enemy behaviors, paper maps, whiteboxes, and set designs went through significant improvements. I generated, wrote, visualized, and implemented many room ideas.
+
+What could be improved (Deltas)?
+
+
+I could improve the rooms’ height consistency. Originally, I thought the height was 8 meters. Later in the project, I heard 7 and 6 meters.  I will ask leads what the final room height should be to clear up confusion.
+
+What will you commit to improve in the next milestone?
+
+
+The next milestone will focus on quality, creativity, and playability. While I already improved within this milestone, I have ample time to create extremely polished works.
+
+What lessons did you learn?
+
+
+I must ask questions as early as possible. Additionally, I must notify the design lead early about getting more tasks. All my work involved Google Docs, Google Drawings, and Unity Probuilder. Insert edge and bridge edges are the most helpful level design tools. Later in the project, I learned moving and scaling tips to create more complex objects. Initially, shapes were abstract. Now, objects like chests and gargoyle statues are more detailed without taking too much time.
